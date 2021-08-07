@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mysql-api",
+  "version": "1.0.0",
+  "description": "A REST API WITH NODE JS AND MYSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimesh6tter/coder-aweso.me_nodeJS.git"
+  },
+  "author": "Nimesh ranatunge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimesh6tter/coder-aweso.me_nodeJS/issues"
+  },
+  "homepage": "https://github.com/nimesh6tter/coder-aweso.me_nodeJS#readme"
+}
